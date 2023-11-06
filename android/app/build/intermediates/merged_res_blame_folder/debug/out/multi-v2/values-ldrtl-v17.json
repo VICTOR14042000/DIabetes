@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.flutter_diabetes_1.app-mergeDebugResources-29:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\virtual\\.gradle\\caches\\transforms-3\\22c70f36e62704be1231d161acd4983e\\transformed\\jetified-kommunicateui-2.7.6\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "332",
+                        "endColumns": "52",
+                        "endOffsets": "380"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\virtual\\.gradle\\caches\\transforms-3\\5cc8db564d46f28c055925bb471009a5\\transformed\\material-1.3.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}
